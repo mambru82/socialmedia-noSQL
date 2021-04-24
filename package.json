@@ -1,0 +1,24 @@
+{
+  "name": "socialmedia-nosql",
+  "version": "1.0.0",
+  "description": "noSQL api routes for a social media website",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mambru82/socialmedia-noSQL.git"
+  },
+  "author": "mambru82",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mambru82/socialmedia-noSQL/issues"
+  },
+  "homepage": "https://github.com/mambru82/socialmedia-noSQL#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.12.5"
+  }
+}
