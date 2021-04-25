@@ -19,7 +19,7 @@
    1. run the server with `npm start`
    1. test whatever routes you wish to verify
    1. you may exit the application with CTRL + C at any time
-   1. see the [linked video]() for a demonstration of the functionality
+   1. see the [linked video](https://drive.google.com/file/d/121lSwKLTQ-ivtMJGHBDQW0oJLdhlsqXO/view?usp=sharing) for a demonstration of the functionality
 
    ## Usage Information
    This application may be used or adapted as needed. The code is part of a Bootcamp assignment. No license is required.
